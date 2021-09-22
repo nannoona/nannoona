@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @nannoona
+- 🌱 I’m currently learning Python 3
